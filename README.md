@@ -5,4 +5,4 @@ Com base em uma aplicação full-stack de um aplicativo de tarefas (cujo Front-e
 Feito a partir dos conhecimentos de Docker, Containers, Images, Docker Compose.
 
 ## :computer: Comandos
-Os comandos elaborados foram registrados no diretório `./docker/docker-commands`, com base nos conhecimento de Docker. Além disso, foram criados os arquivos `Dockerfile` para cada serviço, bem como o `docker-compose.yml` para orquestrar os três containers.
+Os comandos elaborados foram registrados no diretório `./docker/docker-commands`. Além disso, foram criados os arquivos `Dockerfile` para cada serviço, bem como o `docker-compose.yml` para orquestrar os três containers.
