@@ -1,10 +1,8 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Docker - To Do List
+Com base em uma aplicação full-stack de um aplicativo de tarefas (cujo Front-end, Back-end e serviços de teste foram feitos pela Trybe), realizou-se a conteinerização dos serviços, de forma a criar uma conexão entre eles e orquestrar seu funcionamento.
+
+## :bulb: Habilidades:
+Feito a partir dos conhecimentos de Docker, Containers, Images, Docker Compose.
+
+## :computer: Comandos
+Os comandos elaborados foram registrados no diretório `./docker/docker-commands`, com base nos conhecimento de Docker. Além disso, foram criados os arquivos `Dockerfile` para cada serviço, bem como o `docker-compose.yml` para orquestrar os três containers.
