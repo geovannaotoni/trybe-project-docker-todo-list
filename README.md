@@ -1,4 +1,4 @@
-# Docker - To Do List
+# :whale2: Docker - To Do List
 Com base em uma aplicação full-stack de um aplicativo de tarefas (cujo Front-end, Back-end e serviços de teste foram feitos pela Trybe), realizou-se a conteinerização dos serviços, de forma a criar uma conexão entre eles e orquestrar seu funcionamento.
 
 ## :bulb: Habilidades:
